@@ -1,3 +1,6 @@
+
+https://github.com/cftcfurkan/eat-n-split/assets/90473630/9872820f-9d4d-4a65-a590-2641096075fb
+
 # Eat and Split - Expense Sharing and Debt Tracking App
 
 "Eat and Split" is a simple React application that helps you track who owes or is owed how much when you eat out or share expenses with friends or family.
@@ -33,6 +36,3 @@ npm install
 
 # To start the project
 npm start
-
-https://github.com/cftcfurkan/eat-n-split/assets/90473630/9872820f-9d4d-4a65-a590-2641096075fb
-
