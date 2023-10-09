@@ -1,5 +1,5 @@
 
-https://github.com/cftcfurkan/eat-n-split/assets/90473630/9872820f-9d4d-4a65-a590-2641096075fb
+https://github.com/cftcfurkan/eat-n-split/assets/90473630/5cf0da6d-6998-4674-95e7-19027e948f3a
 
 # Eat and Split - Expense Sharing and Debt Tracking App
 
