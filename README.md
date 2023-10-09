@@ -19,19 +19,20 @@ The "Eat and Split" project is a user-friendly application that you can use to k
 
 Explain how to install the project in a local environment. Include the necessary steps to install dependencies or start the project.
 
+
+
+```bash
 # Clone the repository
 git clone https://github.com/your-username/eat-and-split.git
 
 # Navigate to the project directory
 cd eat-and-split
-```bash
+
 # To install project dependencies
 npm install
 
 # To start the project
 npm start
-
-                
 
 https://github.com/cftcfurkan/eat-n-split/assets/90473630/9872820f-9d4d-4a65-a590-2641096075fb
 
